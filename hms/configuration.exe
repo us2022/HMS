@@ -1,0 +1,12 @@
+Hostel Management Systen Using HTML, PHP and MySQL
+Installation Steps(Configuration)
+1. save the file on your local system as [hms].
+2. Put this file inside xampp/htdocs/ .
+3. Database Configuration
+Open phpmyadmin
+Create Database hms.
+Import database hms.sql
+Open Your browser put inside browser “http://localhost/hms/index.html”
+Login Details
+Login Details for admin : jitendra@gmail.com/jitendra@123, OR : jaya@gmail.com/jaya@123 
+Login Details for user : 1806086/jitendra@123
